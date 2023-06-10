@@ -9,7 +9,8 @@
 -----
 
 ![profile count](https://komarev.com/ghpvc/?username=utkarssh11&label=Profile%20views&color=0e75b6&style=flat)&nbsp;
-[![GitHub Utkarssh11](https://github.com/Utkarssh11)&nbsp;
+[![GitHub Utkarssh11](https://img.shields.io/github/followers/Utkarssh11?label=follow&style=social)]([https://github.com/avinash201199](https://github.com/Utkarssh11))&nbsp;
+
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -38,7 +39,7 @@
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
-| [Dynamic Website](http://arisesociety.org/)   | Project on developing a fully working dynamic website using PHP and MySQL for the NGO.  [http://arisesociety.org/](http://arisesociety.org/)        | 
+| [Vehicle-motion-dynamics](https://github.com/Utkarssh11/Vehicle-motion-dynamics)   | In this physics simulation created using p5.js, we can build and interact with our own terrain while driving a car around it.((https://github.com/Utkarssh11/Vehicle-motion-dynamics))        | 
 | [Meme Generator](https://avinash201199.github.io/MemeGenerator/) | This is a React js project , using this website you can create famouse memes only by adding words and you cat download it to your system. |
 | [Tic Tac Toe](https://github.com/avinash201199/Python-Projects/blob/main/Tic_Tac_Toe.py) | A game in which two players alternately put Xs and Os in compartments of a figure formed by two vertical lines crossing two horizontal lines and each tries to get a row of three Xs or three Os before the opponent does |
 | [Personal Portfolio](https://avinash201199.github.io/Portfolio/) | This is my personal personal-portfolio website. Have a look [https://avinash201199.github.io/Portfolio/](https://avinash201199.github.io/Portfolio/) |
