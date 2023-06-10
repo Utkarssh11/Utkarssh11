@@ -26,7 +26,6 @@
 
 
 <a href="https://linkedin.com/in/utkarsh patidar"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="---"><img src="https://img.shields.io/badge/-@michael201199-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 <a href="mailto:utkarshpatidar011@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://www.hackerrank.com/utkarshpatidar01"><img src="https://img.shields.io/badge/-HackerRank-E4405F?style=flat&logo=HackerRank&logoColor=white"/></a> &nbsp;
 <a href="https//www.leetcode.com/utkarssh_"><img src="https://img.shields.io/badge/-LeetCode-E4405F?style=flat&logo=LeetCode&logoColor=white"/></a> &nbsp;
@@ -39,23 +38,13 @@
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
-| [Vehicle-motion-dynamics](https://github.com/Utkarssh11/Vehicle-motion-dynamics)   | In this physics simulation created using p5.js, we can build and interact with our own terrain while driving a car around it.((https://github.com/Utkarssh11/Vehicle-motion-dynamics))        | 
-| [Meme Generator](https://avinash201199.github.io/MemeGenerator/) | This is a React js project , using this website you can create famouse memes only by adding words and you cat download it to your system. |
-| [Tic Tac Toe](https://github.com/avinash201199/Python-Projects/blob/main/Tic_Tac_Toe.py) | A game in which two players alternately put Xs and Os in compartments of a figure formed by two vertical lines crossing two horizontal lines and each tries to get a row of three Xs or three Os before the opponent does |
-| [Personal Portfolio](https://avinash201199.github.io/Portfolio/) | This is my personal personal-portfolio website. Have a look [https://avinash201199.github.io/Portfolio/](https://avinash201199.github.io/Portfolio/) |
+| [Vehicle-motion-dynamics](https://github.com/Utkarssh11/Vehicle-motion-dynamics)   | In this physics simulation created using p5.js, we can build and interact with our own terrain while driving a car around it.        | 
+| [3D-Image-Carousel-For-MS-Dhoni](https://utkarssh11.github.io/3D-Image-Carousel-For-MS-Dhoni/) | This is a HTML project , How to play Just  Dragggggggg your mouse (or your hand) on the screen >... |
+| [I-know-where-you-are](https://utkarssh11.github.io/I-know-where-you-are/) |Basically shows the city you are currently in without any information !! |
+| [Generate-Gradient-Colors](https://utkarssh11.github.io/Generate-Gradient-Colors/) |It generates gradient colors and can copy that code.!! |
+| [Personal Portfolio](https://utkarssh11.github.io/My-Portfolio/) | This is my personal personal-portfolio website. Have a look  |
 
 <hr>
-
-<h1 align="center">Repositories to contribute in Hacktoberfest🤩</h1>
-
-| Repository Name      | Description | 
-| :---:        |    :----   |  
-| [Hacktoberfest Guide](https://github.com/avinash201199/Hacktoberfest-Guide)    | Beginner's guide to Hacktoberfest and contains list of repositories where you can contribute.
-| [To-Do-List](https://github.com/avinash201199/To-Do-List)    | This is a javascript TO-Do-List app , you can contribute to this project by adding some extra feature or by improving UI/UX.      
-| [Portfolio Collection](https://github.com/avinash201199/Portfolio-Collection)      | This repository contains collection of portfolio's . You can add your own repository.
-| [Competition List](https://github.com/avinash201199/Competitions-and-Programs-List) | List of competitions for college students to participate and to enhance their skills. |
-| [Free courses with certificate](https://github.com/avinash201199/Free-courses-with-Certificates) | This repository contains list of free courses with certificates. Go ahead and add more courses in your knowledge. |
-| [Python-Projects](https://github.com/avinash201199/Python-projects-) | This repository contains Python project to contribute |
 
 
 
@@ -99,7 +88,7 @@
 
  </div>
 
-<img align="left" alt="Avinash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=avinash201199&&show_icons=true&theme=dark" width="50%" />
-<img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinash201199&layout=compact&theme=dark" width="46%" />
+<img align="left" alt="utkarssh11's Github Stats" src="https://github-readme-stats.vercel.app/api?username=utkarssh11&&show_icons=true&theme=dark" width="50%" />
+<img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarssh11&layout=compact&theme=dark" width="46%" />
 <br>
-<img src="https://activity-graph.herokuapp.com/graph?username=avinash201199&theme=xcode">
+<img src="https://activity-graph.herokuapp.com/graph?username=utkarssh11&theme=xcode">
