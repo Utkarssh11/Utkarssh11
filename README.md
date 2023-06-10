@@ -1,37 +1,104 @@
-![logo](https://github.com/Utkarssh11/Utkarssh11/blob/main/Black%20Modern%20Minimalist%20Simple%20Technology%20Banner.png)
-<h1 align="center">Hello, I'm Utkarsh Patidar (https://lnkd.in/dSAw2t7U)</h1>
-<h3 align="center">A  Computer Science Student from India</h3>
+### Hello world, I'm Avinash 👋 
 
-<img align="right" alt = "coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+-----
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarssh11&label=Profile%20views&color=0e75b6&style=flat" alt="utkarssh11" /> </p>
-
-- I’m currently working on **improving my coding skills by building small projects**
-
-- I’m currently learning **Python, web development, React**
-
-- Blog Posts <!-- BLOG-POST-LIST:START --> [https://gfgproblemoftheday.blogspot.com/](https://gfgproblemoftheday.blogspot.com/)
-
-- I regularly write articles on [https://earnformanywhare.blogspot.com/](https://earnformanywhare.blogspot.com/)
-
-- Ask me about my **my experience in programming languages such as Java, C++, and Python, C**
-
-- How to reach me **utkarshpatidar011@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/utkarsh patidar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkarsh patidar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/utkarshpatidar01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="utkarshpatidar01" height="30" width="40" /></a>
-<a href="https//www.leetcode.com/utkarssh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="utkarssh_" height="30" width="40" /></a>
-<a href="https//auth.geeksforgeeks.org/user/utkarshpaqzjs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="utkarshpaqzjs" height="30" width="40" /></a>
+<p align="center">
+<img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> </p>
+-----
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarssh11&show_icons=true&locale=en&layout=compact" alt="utkarssh11" /></p>
+![profile count](https://komarev.com/ghpvc/?username=avinash201199&color=red)&nbsp;
+[![GitHub avinash201199](https://img.shields.io/github/followers/avinash201199?label=follow&style=social)](https://github.com/avinash201199)&nbsp;
+### 👨🏻‍💻 &nbsp;About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarssh11&show_icons=true&locale=en" alt="utkarssh11" /></p>
+💡 &nbsp; Hello everyone,I'm engineering student. Love to code , exploring Data Science these days. I enjoy collaborating with people on works of similar interest. 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarssh11&" alt="utkarssh11" /></p>
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Machine learning and Data Science.\
+✍️ &nbsp;Apart from technical interests, I like dancing,watching movies, reading novels, playing Chess and badminton.\
+💬 &nbsp;Feel free to reach out to me for general consulting, or discussions \
+✉️ &nbsp;You can email me at avinash201199@gmail.com. I'll try to respond as soon as possible!\
+📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1K4-g2LlUJFHv-JzBtrBBSeBOUiRN1-iQ/view?usp=sharing) for more details about work experience.
+
+-----
+### 📫 &nbsp; How to reach me:
+
+
+<a href="https://www.linkedin.com/in/avinash-singh-071b79175/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="https://instagram.com/michael201199/"><img src="https://img.shields.io/badge/-@michael201199-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="mailto:avinash201199@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="https://www.hackerrank.com/avinash201199"><img src="https://img.shields.io/badge/-HackerRank-E4405F?style=flat&logo=HackerRank&logoColor=white"/></a> &nbsp;
+<a href="https://leetcode.com/avinash201199/"><img src="https://img.shields.io/badge/-LeetCode-E4405F?style=flat&logo=LeetCode&logoColor=white"/></a> &nbsp;
+
+-----  
+
+
+
+<h1 align="center">Projects</h1>
+
+| Project Name      | Description | 
+| :---:        |    :----   |  
+| [Dynamic Website](http://arisesociety.org/)   | Project on developing a fully working dynamic website using PHP and MySQL for the NGO.  [http://arisesociety.org/](http://arisesociety.org/)        | 
+| [Meme Generator](https://avinash201199.github.io/MemeGenerator/) | This is a React js project , using this website you can create famouse memes only by adding words and you cat download it to your system. |
+| [Tic Tac Toe](https://github.com/avinash201199/Python-Projects/blob/main/Tic_Tac_Toe.py) | A game in which two players alternately put Xs and Os in compartments of a figure formed by two vertical lines crossing two horizontal lines and each tries to get a row of three Xs or three Os before the opponent does |
+| [Personal Portfolio](https://avinash201199.github.io/Portfolio/) | This is my personal personal-portfolio website. Have a look [https://avinash201199.github.io/Portfolio/](https://avinash201199.github.io/Portfolio/) |
+
+<hr>
+
+<h1 align="center">Repositories to contribute in Hacktoberfest🤩</h1>
+
+| Repository Name      | Description | 
+| :---:        |    :----   |  
+| [Hacktoberfest Guide](https://github.com/avinash201199/Hacktoberfest-Guide)    | Beginner's guide to Hacktoberfest and contains list of repositories where you can contribute.
+| [To-Do-List](https://github.com/avinash201199/To-Do-List)    | This is a javascript TO-Do-List app , you can contribute to this project by adding some extra feature or by improving UI/UX.      
+| [Portfolio Collection](https://github.com/avinash201199/Portfolio-Collection)      | This repository contains collection of portfolio's . You can add your own repository.
+| [Competition List](https://github.com/avinash201199/Competitions-and-Programs-List) | List of competitions for college students to participate and to enhance their skills. |
+| [Free courses with certificate](https://github.com/avinash201199/Free-courses-with-Certificates) | This repository contains list of free courses with certificates. Go ahead and add more courses in your knowledge. |
+| [Python-Projects](https://github.com/avinash201199/Python-projects-) | This repository contains Python project to contribute |
+
+
+
+### Languages and Tools
+
+<p>
+ 
+ 
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+ <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
+ <code><img width="15%" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/quora/quora-ar21.svg"></code>
+ <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+ <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+   <code><img width="15%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
+ 
+ 
+ -----
+  
+</p>
+
+
+
+<h1 align="center">Github Stats</h1>
+
+<div align="center">
+  
+[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=avinash201199&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+ </div>
+
+<img align="left" alt="Avinash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=avinash201199&&show_icons=true&theme=dark" width="50%" />
+<img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinash201199&layout=compact&theme=dark" width="46%" />
+<br>
+<img src="https://activity-graph.herokuapp.com/graph?username=avinash201199&theme=xcode">
