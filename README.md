@@ -30,11 +30,11 @@
 <a href="https//www.leetcode.com/utkarssh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="utkarssh_" height="30" width="40" /></a>
 <a href="https//auth.geeksforgeeks.org/user/utkarshpaqzjs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="utkarshpaqzjs" height="30" width="40" /></a>
 </p
------  
 
 
 
-< <h1 align="center"> Projects</h1>
+
+----- <h1 align="center"> Projects</h1>
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
