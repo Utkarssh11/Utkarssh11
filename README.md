@@ -15,17 +15,15 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; Hello everyone,I'm engineering student. Love to code.
-
 🌱 &nbsp;I'm currently working on **improving my coding skills by building small projects**\
 ✍️ &nbsp;Apart from technical interests, I like photography, editiing videos, photos, watching movies.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions \
 ✉️ &nbsp;You can email me at utkarshpatidar011@gmail.
 
 -----
-### 📫 &nbsp; How to reach me:
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> 📫 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/utkarsh patidar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkarsh patidar" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/utkarshpatidar01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="utkarshpatidar01" height="30" width="40" /></a>
@@ -93,4 +91,3 @@
 <img align="left" alt="utkarssh11's Github Stats" src="https://github-readme-stats.vercel.app/api?username=utkarssh11&&show_icons=true&theme=dark" width="50%" />
 <img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarssh11&layout=compact&theme=dark" width="46%" />
 <br>
-<img src="https://activity-graph.herokuapp.com/graph?username=utkarssh11&theme=xcode">
