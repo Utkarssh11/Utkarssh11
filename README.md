@@ -9,7 +9,7 @@
 -----
 
 ![profile count](https://komarev.com/ghpvc/?username=utkarssh11&label=Profile%20views&color=0e75b6&style=flat)&nbsp;
-[![GitHub avinash201199](https://github.com/Utkarssh11)&nbsp;
+[![GitHub Utkarssh11](https://github.com/Utkarssh11)&nbsp;
 
 ### 👨🏻‍💻 &nbsp;About Me
 
