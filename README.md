@@ -34,7 +34,7 @@
 
 
 
------ <h1 align="center"> Projects</h1>
+.<h1 align="center"> Projects</h1>
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
