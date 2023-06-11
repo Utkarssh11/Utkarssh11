@@ -17,7 +17,7 @@
 💡 &nbsp; Hello everyone,I'm engineering student. Love to code.\
 🌱 &nbsp;I'm currently working on **improving my coding skills by building small projects.**\
 ✍️ &nbsp;Apart from technical interests, I like photography, editing videos, photos, watching movies.\
-💬 &nbsp;Feel free to reach out to me for general consulting, or discussions \
+💬 &nbsp;Feel free to reach out to me for general consulting, or discussions. \
 ✉️ &nbsp;You can email me at utkarshpatidar011@gmail.
 
 -----
