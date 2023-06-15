@@ -3,7 +3,7 @@
 -----
 
 <p align="center">
-<img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 40/>
+<img alt="GIF" src="https://media.tenor.com/GI5rHRjV2c4AAAAj/hello.gif" width = 40/>
 </p
 
 -----
