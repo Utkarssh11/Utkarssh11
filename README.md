@@ -1,12 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=D73A7B&size=29&multiline=true&width=700&lines=Welcome+To+Utkarsh+Patidar's+GitHub+Profile)](https://git.io/typing-svg)
+
+
 ### Hello world, I'm Utkarsh 👋 
-
------
-
-<p align="center">
-<img alt="GIF" src="https://media.tenor.com/GI5rHRjV2c4AAAAj/hello.gif" width = 40/>
-</p
-
------
 
 ![profile count](https://komarev.com/ghpvc/?username=utkarssh11&label=Profile%20views&color=0e75b6&style=flat)&nbsp;
 [![GitHub Utkarssh11](https://img.shields.io/github/followers/Utkarssh11?label=follow&style=social)]([https://github.com/avinash201199](https://github.com/Utkarssh11))&nbsp;
@@ -18,23 +13,26 @@
 🌱 &nbsp;I'm currently working on **improving my coding skills by building small projects.**\
 ✍️ &nbsp;Apart from technical interests, I like photography, editing videos, photos, watching movies.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions. \
-✉️ &nbsp;You can email me at utkarshpatidar011@gmail.
+📫 How to reach me: Through [Linkedin](https://www.linkedin.com/in/utkarsh-patidar-800081221/)
 
 -----
 
 
-<h3 align="left"> 📫 Connect with me:</h3>
+## Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+
+
 <p align="left">
 <a href="https://linkedin.com/in/utkarsh patidar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkarsh patidar" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/utkarshpatidar01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="utkarshpatidar01" height="30" width="40" /></a>
 <a href="https//www.leetcode.com/utkarssh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="utkarssh_" height="30" width="40" /></a>
 <a href="https//auth.geeksforgeeks.org/user/utkarshpaqzjs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="utkarshpaqzjs" height="30" width="40" /></a>
 </p
+ <br>
 
 
 
 
-.<h1 align="center"> Projects</h1>
+<h1 align="center"> Projects</h1>
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
@@ -48,39 +46,31 @@
 
 
 
-### Languages and Tools
-
-<p>
- 
- 
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/quora/quora-ar21.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-   <code><img width="15%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
- 
- 
- -----
-  
-</p>
+## Languages and Tools
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-ff69b4?style=for-the-badge&logo=SASS&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<br>
+<br>
+![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=darkgreen)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=blue)
+![Canva](https://img.shields.io/badge/Canva-%2320C4CB.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%69ff69.svg?&style=for-the-badge&logo=Figma&logoColor=white)
+<br/>
+<hr style="border:0.3px solid gray"> </hr>
 
 
 
-<h1 align="center">Github Stats</h1>
+## 📊 My GitHub Stats <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" width="45px">
+  <br/>
 
 <div align="center">
   
