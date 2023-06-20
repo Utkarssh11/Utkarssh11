@@ -40,7 +40,6 @@
 | [URL-Shortly ](https://utkarssh11.github.io/URL-Shortly/) |URL-Shortly is a full-stack project developed using Node.js, MongoDB, HTML, SCSS, and JavaScript. The project aims to provide a URL shortening service, allowing users to convert long URLs into shorter ones. |
 | [Vehicle-motion-dynamics](https://github.com/Utkarssh11/Vehicle-motion-dynamics)   | In this physics simulation created using p5.js, we can build and interact with our own terrain while driving a car around it.        | 
 | [3D-Image-Carousel-For-MS-Dhoni](https://utkarssh11.github.io/3D-Image-Carousel-For-MS-Dhoni/) | This is a HTML project , How to play Just  Dragggggggg your mouse (or your hand) on the screen >... |
-| [Generate-Gradient-Colors](https://utkarssh11.github.io/Generate-Gradient-Colors/) |It generates gradient colors and can copy that code.!! |
 
 <hr>
 
