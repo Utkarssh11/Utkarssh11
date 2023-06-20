@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=D73A7B&size=29&multiline=true&width=700&lines=Welcome+To+Utkarsh+Patidar's+GitHub+Profile)](https://git.io/typing-svg)
 
 
-### Hello world, I'm Utkarsh 👋 
+### Hello world, I'm [Utkarsh](https://utkarssh11.github.io/My-Portfolio/) 👋👈
 
 ![profile count](https://komarev.com/ghpvc/?username=utkarssh11&label=Profile%20views&color=0e75b6&style=flat)&nbsp;
 [![GitHub Utkarssh11](https://img.shields.io/github/followers/Utkarssh11?label=follow&style=social)]([https://github.com/avinash201199](https://github.com/Utkarssh11))&nbsp;
@@ -36,13 +36,11 @@
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
-
 | [Digital-Sales-Hub](https://utkarsh11-digital-sales-hub.netlify.app/about/)   |Digital Sales Hub is a responsive website showcasing software for sales and services.This website contains multiple pages and sections, including landing, product, pricing, testimonials, features, contact, sign up, and footer.        | 
+| [URL-Shortly ](https://utkarssh11.github.io/URL-Shortly/) |URL-Shortly is a full-stack project developed using Node.js, MongoDB, HTML, SCSS, and JavaScript. The project aims to provide a URL shortening service, allowing users to convert long URLs into shorter ones. |
 | [Vehicle-motion-dynamics](https://github.com/Utkarssh11/Vehicle-motion-dynamics)   | In this physics simulation created using p5.js, we can build and interact with our own terrain while driving a car around it.        | 
 | [3D-Image-Carousel-For-MS-Dhoni](https://utkarssh11.github.io/3D-Image-Carousel-For-MS-Dhoni/) | This is a HTML project , How to play Just  Dragggggggg your mouse (or your hand) on the screen >... |
-| [I-know-where-you-are](https://utkarssh11.github.io/I-know-where-you-are/) |Basically shows the city you are currently in without any information !! |
 | [Generate-Gradient-Colors](https://utkarssh11.github.io/Generate-Gradient-Colors/) |It generates gradient colors and can copy that code.!! |
-| [Personal Portfolio](https://utkarssh11.github.io/My-Portfolio/) | This is my personal personal-portfolio website. Have a look  |
 
 <hr>
 
