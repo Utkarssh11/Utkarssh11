@@ -36,6 +36,8 @@
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
+
+| [Digital-Sales-Hub](https://utkarsh11-digital-sales-hub.netlify.app/about/)   |Digital Sales Hub is a responsive website showcasing software for sales and services.This website contains multiple pages and sections, including landing, product, pricing, testimonials, features, contact, sign up, and footer.        | 
 | [Vehicle-motion-dynamics](https://github.com/Utkarssh11/Vehicle-motion-dynamics)   | In this physics simulation created using p5.js, we can build and interact with our own terrain while driving a car around it.        | 
 | [3D-Image-Carousel-For-MS-Dhoni](https://utkarssh11.github.io/3D-Image-Carousel-For-MS-Dhoni/) | This is a HTML project , How to play Just  Dragggggggg your mouse (or your hand) on the screen >... |
 | [I-know-where-you-are](https://utkarssh11.github.io/I-know-where-you-are/) |Basically shows the city you are currently in without any information !! |
