@@ -85,3 +85,5 @@
 <p align="center">
    <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
 </p>
+
+[![Utkarssh11 GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Utkarssh11&theme=github-compact)](https://github.com/Utkarssh11/github-readme-activity-graph)
