@@ -80,3 +80,8 @@
 <img align="left" alt="utkarssh11's Github Stats" src="https://github-readme-stats.vercel.app/api?username=utkarssh11&&show_icons=true&theme=dark" width="50%" />
 <img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarssh11&layout=compact&theme=dark" width="46%" />
 <br>
+
+## 📈 Graph
+<p align="center">
+   <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
+</p>
