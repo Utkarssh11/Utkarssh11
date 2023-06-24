@@ -13,7 +13,7 @@
 🌱 &nbsp;I'm currently working on **improving my coding skills by building small projects.**\
 ✍️ &nbsp;Apart from technical interests, I like photography, editing videos, photos, watching movies.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions. \
-📫 How to reach me: Through [Linkedin](https://www.linkedin.com/in/utkarsh-patidar-800081221/)\ 
+📫 How to reach me: Through [Linkedin](https://www.linkedin.com/in/utkarsh-patidar-800081221/) \
 👻 Connect with Social Media Networks [here](https://utkarssh11.github.io/Social-Media-Networks/
 ) !!
 
