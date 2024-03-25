@@ -52,17 +52,14 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Java](https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Fjava-logo%2F&psig=AOvVaw1pQvzSmmWbn-H6ES3V5DRc&ust=1711442365137000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIC33-OBj4UDFQAAAAAdAAAAABAJ)
 ![SASS](https://img.shields.io/badge/SASS-ff69b4?style=for-the-badge&logo=SASS&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 <br>
 <br>
 ![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=darkgreen)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%69ff69.svg?&style=for-the-badge&logo=Figma&logoColor=white)
 <br/>
 <hr style="border:0.3px solid gray"> </hr>
 
