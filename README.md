@@ -104,13 +104,12 @@ My goal is to deliver solutions that **improve user experience** and **simplify 
 
 ---
 
-## 🌐 Connect with Me
+## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/utkarsh-patidar-800081221" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" /></a>
-  <a href="https://www.hackerrank.com/utkarshpatidar01" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" height="30" alt="HackerRank" /></a>
-  <a href="https://leetcode.com/utkarssh_" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leet-code&logoColor=black" height="30" alt="LeetCode" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/utkarshpaqzjs" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-5E7C1D?style=flat&logo=geeksforgeeks&logoColor=white" height="30" alt="GeeksforGeeks" /></a>
+  <a href="https://linkedin.com/in/utkarsh-patidar-800081221" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.hackerrank.com/utkarshpatidar01" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/utkarshpaqzjs" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GeeksforGeeks-5E7C1D?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
 </p>
 
 ---
