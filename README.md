@@ -34,19 +34,24 @@ My goal is to deliver solutions that **improve user experience** and **simplify 
 
 ## 🚀 My Skills
 
-### 💻 **Frontend**:
-- **React.js**, **HTML5**, **CSS3**, **JavaScript**, **Bootstrap**, **SCSS**
+### 💻 Frontend:
+- React.js, JavaScript, HTML5, CSS3, Bootstrap, SCSS
 
-### 🔧 **Backend**:
-- **Java**, **Spring Boot**, **JDBC**
-### 🗄️ **Databases**:
-- **PostgreSQL**, **SQL**
+### 🔧 Backend:
+- Java, Spring Framework (Boot, MVC, Data JPA), Hibernate, J2EE, RESTful APIs, JDBC
 
-### ⚙️ **Version Control**:
-- **Git**, **GitHub**
+### 🗄️ Databases:
+- MySQL, PostgreSQL, SQL
 
-### 🛠️ **Tools**:
-- **VS Code**, **Eclipse**, **Postman**, **IntelliJ IDEA**
+### ⚙️ Version Control & DevOps:
+- Git, GitHub, Postman
+
+### 🛠️ Tools & IDEs:
+- VS Code, Eclipse, IntelliJ IDEA
+
+### 📚 Concepts & Architecture:
+- Object-Oriented Programming (OOP), MVC, Microservice Architecture
+
 
 ---
 
