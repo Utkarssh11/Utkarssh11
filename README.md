@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=D73A7B&size=29&multiline=true&width=700&lines=Welcome+To+Utkarsh+Patidar's+GitHub+Profile)](https://git.io/typing-svg)
 
 
-# ✨ Hello, I'm [Utkarsh Patidar](https://utkarshpatidar.vercel) 👨‍💻
+# Hello, I'm [Utkarsh Patidar](https://utkarshpatidar.vercel) 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=utkarssh11&label=Profile%20Views&color=0e75b6&style=flat)
 [![Follow me on GitHub](https://img.shields.io/github/followers/Utkarssh11?label=Follow&style=social)](https://github.com/Utkarssh11)
@@ -14,9 +14,9 @@ I am a **passionate software developer** focused on **front-end** and **back-end
 I love **building interactive web applications** using **React.js**, **Spring Boot**, and **PostgreSQL**.  
 My goal is to deliver solutions that **improve user experience** and **simplify complex systems**.
 
-- 🌱 **Currently learning**: Full-stack development, **Web performance optimization**
-- 🧩 **My interest**: **Coding challenges**, **clean code**, and **system design**
-- 🎬 **Outside coding**: I’m into **photography**, **video editing**, and watching **movies**.
+-  **Currently learning**: Full-stack development, **Web performance optimization**
+-  **My interest**: **Coding challenges**, **clean code**, and **system design**
+-  **Outside coding**: I’m into **photography**, **video editing**, and watching **movies**.
 
 ---
 
@@ -34,22 +34,22 @@ My goal is to deliver solutions that **improve user experience** and **simplify 
 
 ## 🚀 My Skills
 
-### 💻 Frontend:
+### Frontend:
 - React.js, JavaScript, HTML5, CSS3, Bootstrap, SCSS
 
-### 🔧 Backend:
+### Backend:
 - Java, Spring Framework (Boot, MVC, Data JPA), Hibernate, J2EE, RESTful APIs, JDBC
 
-### 🗄️ Databases:
+### Databases:
 - MySQL, PostgreSQL, SQL
 
-### ⚙️ Version Control & DevOps:
+###  Version Control & DevOps:
 - Git, GitHub, Postman
 
-### 🛠️ Tools & IDEs:
+###  Tools & IDEs:
 - VS Code, Eclipse, IntelliJ IDEA
 
-### 📚 Concepts & Architecture:
+### Concepts & Architecture:
 - Object-Oriented Programming (OOP), MVC, Microservice Architecture
 
 
@@ -78,7 +78,7 @@ My goal is to deliver solutions that **improve user experience** and **simplify 
 
 ---
 
-## 🎨 Animated GIF for Fun
+##  Animated GIF for Fun
 
 ![Animated Coding GIF](https://media.giphy.com/media/3o6Zt7wDrkR8ST6epO/giphy.gif)
 
@@ -90,7 +90,7 @@ My goal is to deliver solutions that **improve user experience** and **simplify 
 
 ---
 
-## 📊 Top Languages Used
+##  Top Languages Used
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarssh11&layout=compact&theme=dark)
 
