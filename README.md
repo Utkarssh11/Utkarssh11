@@ -7,18 +7,17 @@
 [![Follow me on GitHub](https://img.shields.io/github/followers/Utkarssh11?label=Follow&style=social)](https://github.com/Utkarssh11)
 
 ---
-
 ## 💡 About Me
 
-I am a **passionate software developer** focused on **front-end** and **back-end** development.  
-I love **building interactive web applications** using **React.js**, **Spring Boot**, and **PostgreSQL**.  
-My goal is to deliver solutions that **improve user experience** and **simplify complex systems**.
+I'm a **Software Engineer** passionate about building scalable backend
+applications and modern web experiences.
 
--  **Currently learning**: Full-stack development, **Web performance optimization**
--  **My interest**: **Coding challenges**, **clean code**, and **system design**
--  **Outside coding**: I’m into **photography**, **video editing**, and watching **movies**.
+Currently working on **Smarten BI (Business Intelligence Platform)**
+where I build enterprise backend services, REST APIs, dashboards,
+reporting modules and graph visualization features using **Java, Spring
+Boot, Hibernate, JDBC and SQL**.
 
----
+-   💼 Software Engineer @ Elegant MicroWeb Technologies
 
 ## 🏆 Achievements
 
@@ -34,23 +33,26 @@ My goal is to deliver solutions that **improve user experience** and **simplify 
 
 ## 🚀 My Skills
 
-### Frontend:
-- React.js, JavaScript, HTML5, CSS3, Bootstrap, SCSS
+### ☕ Backend
 
-### Backend:
-- Java, Spring Framework (Boot, MVC, Data JPA), Hibernate, J2EE, RESTful APIs, JDBC
+Java • Spring Boot • Spring MVC • Spring Data JPA • Hibernate • JDBC •
+REST APIs
 
-### Databases:
-- MySQL, PostgreSQL, SQL
+### 🎨 Frontend
 
-###  Version Control & DevOps:
-- Git, GitHub, Postman
+HTML5 • CSS3 • Bootstrap • JavaScript • React.js
 
-###  Tools & IDEs:
-- VS Code, Eclipse, IntelliJ IDEA
+### 🗄 Databases
 
-### Concepts & Architecture:
-- Object-Oriented Programming (OOP), MVC, Microservice Architecture
+MySQL • PostgreSQL • SQL
+
+### 🛠 Tools
+
+Git • GitHub • Maven • Postman • VS Code • Eclipse • IntelliJ IDEA
+
+### 📚 Concepts
+
+OOP • DSA • DBMS • MVC • SDLC • REST Architecture • Design Patterns
 
 
 ---
